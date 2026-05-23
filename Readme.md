@@ -1,118 +1,114 @@
-<h1 align="center">Hi 👋, I'm Korimilli Durgarao</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=AI+Developer;Flutter+Developer;Full+Stack+Learner;Building+LLM+Projects" />
+<!-- SECTION G: VISITOR COUNTER -->
+<p align="right">
+  <img src="https://komarev.com/ghvc/?username=jogeswara123&label=Profile%20Views&color=bf5af2&style=flat-square" alt="Visitor Counter" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=jogeswara123&label=Profile%20views&color=0e75b6&style=flat"/>
+<!-- SECTION A: ANIMATED HEADER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Hi">
+  <h1>Hi, I'm Korimilli Durga Rao 👋</h1>
+  
+  <!-- Typing Effect SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41a5f5&center=true&vCenter=true&width=435&lines=Full Stack Developer;Building+the+Future+with+Code;Continuous+Learner+%26+Builder" alt="Typing Effect" />
+</div>
+
+<br/>
+
+---
+
+<!-- SECTION B: ABOUT ME -->
+## 💫 About Me
+
+I am a passionate and driven Full Stack Developer  crafting robust solutions and building impactful software. I love turning complex problems into elegant, efficient code. 
+
+Beyond engineering, I enjoy sharing knowledge, insights, and my tech journey with the community across various platforms!
+
+* 🚀 **What I do:** Currently deep-diving into software architecture, performance optimization, and scalable systems.
+* 📚 **Learning:** Exploring advanced system designs and emerging tech stacks.
+* ⚡ **Fun Fact:** I survive on caffeine, turn coffee into clean code, and firmly believe that terminal themes impact productivity.
+
+---
+
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
----
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-# 🚀 About Me
-
-💻 Passionate developer exploring AI and Full Stack development
-
-🧠 Currently working on:
-- AI-powered code comment generator
-- LLM-powered intelligent query retrieval system
-- AI responsive quiz application
-
-📚 Learning:
-- Data Structures & Algorithms
-- New technologies
-- Advanced backend development
-
-✨ Fun facts:
-
-- ☕ Can debug for hours with coffee
-- 🔥 Love building AI applications
-- 🚀 Always learning something new
-- 🎯 Goal: Build impactful AI products
-
----
-
-# 💻 Tech Stack
-
-### Frontend
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-
----
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github)
-
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
-![Cursor](https://img.shields.io/badge/Cursor_AI-black?style=for-the-badge)
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/korimilli-durgarao-1237592b0/)
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/durgarao_korimilli/)
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jogeswara123&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeswara123&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeswara123&layout=compact&theme=tokyonight"/>
-
+### 🧰 Tools & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 📊 Connect With Me
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jogeswara123&theme=onedark"/>
-
+<p align="left">
+ 
+  <a href="https://www.instagram.com/durgarao_korimilli/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Instagram%20%7C%20X%20Followers" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/korimilli-durgarao-1237592b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-## 💡 Quote
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 Github Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jogeswara123&theme=tokyonight&column=7" alt="Github Trophies" />
+</p>
 
-*"Code. Learn. Build. Repeat."*
+<br/>
+
+<!-- SECTION E: GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=jogeswara123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeswara123&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jogeswara123&theme=tokyonight" alt="GitHub Streak" height="190" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-<h3 align="center">
-Let's build something amazing 🚀
-</h3>
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect!
+
+Thank you for visiting my profile! I am always open to collaborating on open-source projects, discussing new opportunities, or just talking about tech. Feel free to reach out to me via any of the social links above!
+
+<p align="center"><b>Keep building, keep learning. ✨</b></p>
