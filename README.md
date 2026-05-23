@@ -3,15 +3,12 @@
   <img src="https://komarev.com/ghvc/?username=jogeswara123&label=Profile%20Views&color=bf5af2&style=flat-square" alt="Visitor Counter" />
 </p>
 
-<!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="Hi">
   <h1>Hi, I'm Korimilli Durga Rao 👋</h1>
   
-  <!-- Typing Effect SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41a5f5&center=true&vCenter=true&width=435&lines=Full Stack Developer;Building+the+Future+with+Code;Continuous+Learner+%26+Builder" alt="Typing Effect" />
+  ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41a5f5&center=true&vCenter=true&width=435&lines=Software+Developer;Continuous+Learner+%26+Builder)
 </div>
-
 <br/>
 
 ---
