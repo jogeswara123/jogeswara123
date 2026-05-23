@@ -87,10 +87,10 @@ Beyond engineering, I enjoy sharing knowledge, insights, and my tech journey wit
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=jogeswara123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jogeswara123&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="190" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogeswara123&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jogeswara123&layout=compact&theme=tokyonight" alt="Top Languages" height="190" />
       </td>
     </tr>
     <tr>
