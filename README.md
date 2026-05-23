@@ -1,6 +1,6 @@
 <!-- SECTION G: VISITOR COUNTER -->
 <p align="right">
-  <img src="https://komarev.com/ghvc/?username=jogeswara123&label=Profile%20Views&color=bf5af2&style=flat-square" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=jogeswara123&label=Profile%20Views&color=bf5af2&style=flat-square" alt="Visitor Counter" />
 </p>
 
 <div align="center">
